@@ -1,4 +1,4 @@
-Programmatically scrape indeed.com results and outputs them into a formatted gsheet
+Programmatically scrape job search engines (currently indeed.com only) and outputs search results into a formatted gsheet
 
 Features
 - Runs multiple searchs (e.g., SWE internship, data analytics in New York by specifying the target URLs to search (and depth for each URL) in gsheet
@@ -9,4 +9,5 @@ Usage notes
 
 Potential features enhancements
 - move google secrets into a separate directory
+- expand to other job search engines
 
